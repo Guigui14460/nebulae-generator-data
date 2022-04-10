@@ -1,0 +1,177 @@
+filename,name,designation,type,subtype
+barnard_203.jpg,Barnard 203,LDN 1448,dark,
+barnard_142.jpg,E Nebula,Barnard 142-143,dark,
+barnard_146.jpg,Barnard 146-147,LDN 853,dark,
+barnard_150.jpg,Seahorse Nebula,Barnard 150,dark,
+barnard_33.jpg,Horsehead Nebula,LDN 1630,dark,
+barnard_68.jpg,Barnard 68,LDN 57,dark,
+barnard_72.jpg,Snake Nebula,Barnard 72,dark,
+barnard_loop.jpg,Barnard's Loop,Sh2-276,diffuse,emission
+bubble.jpg,Bubble Nebula,Sh2-162,diffuse,emission
+california.jpeg,California Nebula,NGC 1499,diffuse,emission
+carina.jpg,Carina Nebula,NGC 3372,diffuse,emission
+cave.jpg,Cave Nebula,Sh2-155,diffuse,emission
+cone.jpg,Cone Nebula,NGC 2264,diffuse,emission
+crescent.jpg,Crescent Nebula,NGC 6888,diffuse,emission
+double_helix.jpg,Double Helix Nebula,,diffuse,emission
+eagle.jpg,Eagle Nebula,Messier 16,diffuse,emission
+elephant_trunk.jpg,Elephant's Trunk Nebula,,diffuse,emission
+flame.jpg,Flame Nebula,NGC 2024,diffuse,emission
+omega.jpg,Omega Nebula,Messier 17,diffuse,emission
+north_america.jpg,North America Nebula,NGC 7000,diffuse,emission
+lagoon.jpg,Lagoon Nebula,NGC 6523,diffuse,emission
+humunculus.jpg,Humunculus Nebula,,diffuse,emission+reflection
+heart.jpg,Heart Nebula,NGC 896,diffuse,emission
+orion.jpg,Orion Nebula,Messier 42,diffuse,emission+reflection
+pistol.jpg,Pistol Nebula,,diffuse,emission
+rosette.jpg,Rosette Nebula,Sh2-275,diffuse,emission
+running_chicken.jpg,Running Chicken Nebula,IC 2944,diffuse,emission
+westerhout5.jpg,Soul Nebula,Sh2-199,diffuse,emission
+tarantula.jpg,Tarantula Nebula,NGC 2070,diffuse,emission
+trifid.jpg,Trifid Nebula,Messier 20,diffuse,emission
+witch_head.jpg,Witch Head Nebula,Cederblad 41,diffuse,reflection
+de_mairan.jpg,De Mairan's Nebula,Messier 43,diffuse,emission
+messier_78.jpg,Messier 78,Messier 78,diffuse,reflection
+ngc_248.jpg,NGC 248,NGC 248,diffuse,emission
+ngc_281.jpg,NGC 281,NGC 281,diffuse,emission
+ngc_346.jpg,NGC 346,NGC 346,diffuse,
+ngc_371.jpg,NGC 371,NGC 371,diffuse,
+ngc_595.jpg,NGC 595,NGC 595,diffuse,
+ngc_604.jpg,NGC 604,NGC 604,diffuse,emission
+merope.jpg,Merope Nebula,NGC 1435,diffuse,reflection
+ngc_1491.jpg,NGC 1491,Sh2-206,diffuse,emission
+ngc_1579.jpg,Northern Trifid Nebula,NGC 1579,diffuse,emission
+ngc_1788.jpg,NGC 1788,NGC 1788,diffuse,reflection
+ngc_1931.jpg,NGC 1931,NGC 1931,diffuse,emission
+sh2_279.jpg,Sh2-279,NGC 1977-73-75,diffuse,reflection
+ngc_1999.jpg,NGC 1999,NGC 1999,diffuse,reflection
+ngc_2014.jpg,NGC 2014,NGC 2014,diffuse,emission
+ngc_2023.jpg,NGC 2023,NGC 2023,diffuse,emission+reflection
+ngc_2080.jpg,NGC 2080,NGC 2080,diffuse,emission
+ngc_2174.jpg,Monkey Head Nebula,NGC 2174,diffuse,emission
+ngc_2261.png,Hubble's Variable Nebula,NGC 2261,diffuse,reflection
+ngc_2736.jpg,Pencil Nebula,NGC 2736,diffuse,
+ngc_3576.jpg,NGC 3576,NGC 3576,diffuse,emission
+ngc_3603.jpg,Giant Nebula,Gum 38b,,
+ngc_6188.jpg,NGC 6188,NGC 6188,diffuse,emission
+ngc_6334.jpg,Cat's Paw Nebula,NGC 6334,diffuse,emission
+ngc_6357.jpg,NGC 6357,NGC 6357,diffuse,emission
+ngc_6559.jpg,NGC 6559,NGC 6559,diffuse,
+ngc_6589.jpg,NGC 6589,NGC 6589,diffuse,reflection
+ngc_6914.jpg,NGC 6914,NGC 6914,diffuse,reflection
+ngc_7129.jpg,NGC 7129,NGC 7129,diffuse,reflection
+lha_120-n_55.jpg,LHA 120-N 55,DEM L 228,diffuse,emission
+ic_349.jpg,Barnard's Merope Nebula,IC 349,diffuse,reflection
+seagull.jpg,Seagull Nebula,IC 2177,diffuse,emission
+ic_5146.jpg,Cocoon Nebula,IC 5146,diffuse,reflection
+ic_2631.jpg,IC 2631,IC 2631,,
+corona_australis,Corona Australis Nebula,,,
+boomerang.jpg,Boomerang Nebula,LEDA 3074547,protoplanetary,reflection
+calabash.jpg,Calabash Nebula,OH 231.84 +4.22,protoplanetary,reflection
+egg.jpg,Egg Nebula,CRL 2688,protoplanetary,reflection
+frosty_leo.jpg,Frosty Leo Nebula,IRAS 09371+1212,protoplanetary,reflection
+red_rectangle.jpg,Red Rectangle Nebula,HD 44179,protoplanetary,reflection
+cotton_candy.jpg,Cotton Candy Nebula,IRAS 17150-3224,protoplanetary,reflection
+westbrook.jpg,Westbrook Nebula,IRAS 04395+3601,protoplanetary,reflection
+ll_pegasi.jpg,LL Pegasi,IRAS 23166+1655,protoplanetary,
+m1-92.jpg,Minkowski 92,IRAS 19343+2926,protoplanetary,emission
+lambda_orionis_ring.jpg,Lambda Orionis Ring,Sh2-264,supernova remnant,
+sagitarius_a_east.jpg,Sagittarius A East,,supernova remnant,
+simeis_147.jpg,Spaghetti Nebula,SNR G180.0-01.7,supernova remnant,
+ic_443.jpg,Jellyfish Nebula,SNR G189.0+03.0,supernova remnant,
+westerhout50.jpg,Westerhout 50,SNR G039.7-02.0,supernova remnant,
+vela.jpg,Vela SNR,SNR G263.9-03.3,supernova remnant,
+cygmus_loop.jpg,Cygnus Loop,Sh2-103,supernova remnant,
+lmc_n49.jpg,LMC N49,SNR J052559-660453,supernova remnant,
+sn_185.jpg,SN 185,SNR G315.0-02.3,supernova remnant,
+w49b.jpg,W49B,SNR G043.3-00.2,supernova remnant,
+sn_1006.jpg,SN 1006,SNR G327.6+14.6,supernova remnant,
+crab.jpg,Crab Nebula,SN 1054,supernova remnant,
+vela_junior.jpg,RX J0852.0-4622,SNR G266.2-01.2,supernova remnant,
+sn_1572.jpg,SN 1572,SNR G120.1+01.4,supernova remnant,
+sn_1604.jpg,Kepler's Supernova,SN 1604,supernova remnant,
+cassiopeia_a.jpg,Cassiopeia A,SNR G111.7-02.1,supernova remnant,
+gum.png,Gum Nebula,Gum 12,supernova remnant,
+ngc_6751.jpg,Glowing Eye Nebula,NGC 6751,planetary,emission
+ngc_6210.jpg,NGC 6210,NGC 6210,planetary,emission
+ngc_3242.png,Ghost of Jupiter,NGC 3242,planetary,emission
+ngc_6826.jpg,Blinking Planetory,NGC 6826,planetary,emission
+ngc_6853.jpg,Dumbbell Nebula,NGC 6853,planetary,emission
+ngc_6720.jpg,Ring Nebula,NGC 6720,planetary,emission
+ngc_2392.jpg,Eskimo Nebula,NGC 2392,planetary,emission
+ngc_6543.jpg,Cat's Eye Nebula,NGC 6543,planetary,emission
+ngc_6369.jpg,Little Ghost Nebula,NGC 6369,planetary,emission
+abell_21.jpg,Medusa Nebula,Sh2-274,planetary,emission
+ngc_7027.jpg,Jewel Bug Nebula,NGC 7027,planetary,emission
+ngc_7293.jpg,Helix Nebula,NGC 7293,planetary,emission
+ngc_650.jpg,Little Dumbbell Nebula,NGC 650,planetary,emission
+ngc_3587.jpg,Owl Nebula,NGC 3587,planetary,emission
+m2-9.jpg,Minkowski's Butterfly,Minkowski 2-9,planetary,emission
+ngc_7026.jpg,NGC 7026,NGC 7026,planetary,emission
+ngc_2346.jpg,Butterfly Nebula,NGC 2346,planetary,emission
+abell_39.jpg,Abell 39,Abell 39,planetary,emission
+headphone.jpg,Jones-Emberson 1,Headphone Nebula,planetary,
+lemon_slice.jpg,Lemon Slice Nebula,IC 3568,planetary,emission
+soap_bubble.jpg,Soap Bubble Nebula,PN G75.5+1.7,planetary,emission
+ic_289.jpg,IC 289,IRAS 03062+6107,planetary,emission
+ngc_246.jpg,Skull Nebula,NGC 246,planetary,emission
+ngc_1501.jpg,Oyster Nebula,NGC 1501,planetary,emission
+ngc_1514.jpg,NGC 1514,NGC 1514,planetary,emission
+ngc_2022.jpg,NGC 2022,NGC 2022,planetary,emission
+ngc_2371.jpg,NGC 2371,NGC 2371,planetary,emission
+ngc_6572.jpg,Blue Racquetball Nebula,NGC 6572,planetary,emission
+ngc_6781.jpg,NGC 6781,NGC 6781,planetary,emission
+ngc_6790.jpg,NGC 6790,NGC 6790,planetary,emission
+ngc_6881.jpg,NGC 6881,NGC 6881,planetary,emission
+ngc_6884.jpg,NGC 6884,NGC 6884,planetary,emission
+ngc_6886.jpg,NGC 6886,NGC 6886,planetary,emission
+ngc_6905.jpg,Blue Flash Nebula,NGC 6905,planetary,emission
+ngc_7008.jpg,Fetus Nebula,NGC 7008,planetary,emission
+ngc_7354.jpg,NGC 7354,NGC 7354,planetary,emission
+ngc_7662.jpg,Blue Snowball Nebula,NGC 7662,planetary,emission
+abell_78.jpg,Abell 78,Abell 78,planetary,emission
+abell_31.jpg,Abell 31,Abell 31,planetary,emission
+kronberger_61.jpg,Soccer Ball Nebula,Kronberger 61,planetary,emission
+hen_2-47.jpg,Hen 2-47,Hen 2-47,planetary,emission
+hen_2-104.jpg,Southern Crab Nebula,Hen 2-104,planetary,emission
+ngc_5979.jpg,NGC 5979,NGC 5979,planetary,emission
+ngc_6537.jpg,Red Spider Nebula,NGC 6537,planetary,emission
+ngc_6565.jpg,NGC 6565,NGC 6565,planetary,emission
+ngc_6302.jpg,Bug Nebula,NGC 6302,planetary,emission
+ngc_7009.jpg,Saturn Nebula,NGC 7009,planetary,emission
+ngc_3132.jpg,Eight-Burst Nebula,NGC 3132,planetary,emission
+ngc_2438.jpg,NGC 2438,NGC 2438,planetary,emission
+ngc_2440.jpg,NGC 2440,NGC 2440,planetary,emission
+ic_418.jpg,Spirograph Nebula,IC 418,planetary,emission
+ic_1295.jpg,IC 1295,IC 1295,planetary,emission
+ic_2448.jpg,IC 2448,IC 2448,planetary,emission
+ic_5148.jpg,Spare-Tyre Nebula,IC 5148,planetary,emission
+ic_4406.jpg,Retina Nebula,IC 4406,planetary,emission
+hen_3-1357.jpg,Stingray Nebula,Hen 3-1357,planetary,emission
+ngc_5189.jpg,Spiral Planetary Nebula,NGC 5189,planetary,emission
+mz_1.png,Menzel 1,Menzel 1,planetary,emission
+mz_3.jpg,Ant Nebula,Menzel 3,planetary,emission
+sp_1.jpg,Shapley 1,Sp 1,planetary,emission
+mycn_18.png,Engraved Hourglass Nebula,MyCn 18,planetary,emission
+ngc_3918.jpg,Blue Planetary,NGC 3918,planetary,emission
+ngc_6578.jpg,NGC 6578,NGC 6578,planetary,emission
+fleming_1.jpg,Fleming 1,G290.5+07.9,planetary,emission
+southern_owl.jpg,Southern Owl Nebula,PLN 283+25.1,planetary,emission
+ngc_1360.jpg,Robin's Egg Nebula,NGC 1360,planetary,emission
+ngc_1535.jpg,Cleopatra's Eye,NGC 1535,planetary,emission
+ngc_2452.jpg,NGC 2452,NGC 2452,planetary,emission
+ngc_2899.jpg,NGC 2899,NGC 2899,planetary,emission
+ngc_2818.jpg,NGC 2818,NGC 2818,planetary,emission
+ngc_2867.jpg,NGC 2867,NGC 2867,planetary,emission
+ngc_4361.jpg,NGC 4361,NGC 4361,planetary,emission
+ngc_5307.jpg,NGC 5307,NGC 5307,planetary,emission
+ngc_5315.jpg,NGC 5315,NGC 5315,planetary,emission
+ngc_5882.jpg,NGC 5882,NGC 5882,planetary,emission
+ngc_6153.jpg,NGC 6153,NGC 6153,planetary,emission
+ngc_6309.jpg,Box Nebula,NGC 6309,planetary,emission
+ngc_6326.jpg,NGC 6326,NGC 6326,planetary,emission
+ngc_6741.jpg,Phantom Streak Nebula,NGC 6741,planetary,emission
+ngc_6818.jpg,Little Gem Nebula,NGC 6818,planetary,emission
+abell_36.jpg,Abell 36,Abell 36,planetary,emission
+ngc_6445.jpg,NGC 6445,NGC 6445,planetary,emission
+m1-42.jpg,Eye of Sauron Nebula,Minkowski 1-42,planetary,emission
